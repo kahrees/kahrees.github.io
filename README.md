@@ -1,1 +1,2 @@
-# KarisC.github.io
+## Karis C. Anoruo
+Engineer. Data Analyst. Writer
