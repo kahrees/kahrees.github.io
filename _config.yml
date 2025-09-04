@@ -1,5 +1,6 @@
-remote_theme: pages-themes/cayman@v0.2.0
-title: Karis C. Amoruo
-description: Bookmark this to keep an eye on my project updates!
-plugins_dir: jekyll-remote-theme 
+title: Karis C. Anoruo
+#logo: /img/profile.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
 
